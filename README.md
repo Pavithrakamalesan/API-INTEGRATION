@@ -51,9 +51,9 @@ The Weather Search Application is a responsive web app that allows users to sear
 
 **Future Enhancements**
 
--Add weather forecasts.
+- Add weather forecasts.
 
--Include geolocation-based weather fetching.
+- Include geolocation-based weather fetching.
 
 **OUTPUT**
 
