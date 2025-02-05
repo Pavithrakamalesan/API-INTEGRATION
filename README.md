@@ -57,3 +57,7 @@ The Weather Search Application is a responsive web app that allows users to sear
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/f0e2eef0-a0ad-430c-9f52-04f37a93f45d)
+
+![Image](https://github.com/user-attachments/assets/0478bb7b-4cb5-46a0-a220-c08f6467a39b)
+
